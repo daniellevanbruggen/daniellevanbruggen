@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Daniëlle 👋
 
-<!--
-**daniellevanbruggen/daniellevanbruggen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Intelligence Engineer with 3 years of experience at Amazon
+Luxembourg, currently expanding into data engineering and applied AI.
 
-Here are some ideas to get you started:
+I turn messy data into clear, decision-ready insights - using SQL and Power
+BI for the reporting side, and increasingly pandas, LangChain, and LLM APIs
+to automate the analysis itself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently building: SQL/Power BI dashboards and LLM-powered data tools
+🌱 Learning: agentic AI systems, RAG, and applied ML
+💼 Open to: Data Analyst / BI Engineer / Data Engineer roles in Luxembourg
+📫 Reach me: [www.linkedin.com/in/daniellevanbruggen]
