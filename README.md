@@ -1,13 +1,15 @@
 ### Hi, I'm Daniëlle 👋
 
-I'm a Business Intelligence Engineer with 3 years of experience at Amazon
-Luxembourg, currently expanding into data engineering and applied AI.
+I'm a BI & Analytics Engineer with 3 years of experience at Amazon 
+Luxembourg, combining a strong data engineering foundation with 
+applied AI development.
 
-I turn messy data into clear, decision-ready insights - using SQL and Power
-BI for the reporting side, and increasingly pandas, LangChain, and LLM APIs
-to automate the analysis itself.
+I turn messy data into clear, decision-ready insights - using SQL, 
+Power BI, and Snowflake for the BI side, and OpenAI API, LangChain, 
+Hugging Face, and RAG pipelines to build AI-powered data tools.
 
-🔭 Currently building: SQL/Power BI dashboards and LLM-powered data tools
-🌱 Learning: agentic AI systems, RAG, and applied ML
+🔭 Portfolio: Streamlit dashboards · SQL analysis · Power BI reports · 
+LLM applications · Sentiment analysis · LangChain agents
+🌱 Currently learning: supervised ML (scikit-learn) and time series forecasting
 💼 Open to: Data Analyst / BI Engineer / Data Engineer roles in Luxembourg
 📫 Reach me: [www.linkedin.com/in/daniellevanbruggen]
