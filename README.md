@@ -10,6 +10,9 @@ Hugging Face, and RAG pipelines to build AI-powered data tools.
 
 🔭 Portfolio: Streamlit dashboards · SQL analysis · Power BI reports · 
 LLM applications · Sentiment analysis · LangChain agents
+
 🌱 Currently learning: supervised ML (scikit-learn) and time series forecasting
+
 💼 Open to: Data Analyst / BI Engineer / Data Engineer roles in Luxembourg
+
 📫 Reach me: [www.linkedin.com/in/daniellevanbruggen]
